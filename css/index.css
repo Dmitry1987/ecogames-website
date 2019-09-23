@@ -1,0 +1,36 @@
+.nav-bg-color {
+	background: #00c0ff;
+}#nav-fluid-logo-menu-btn-2 {
+	background: transparent;
+}#nav-fluid-logo-menu-btn-2 .nav-bg {
+	background: #00c0ff;
+	opacity: 0.7;
+}#header-center-slogan-form-2--0 {
+	background: #000000;
+}
+
+#header-center-slogan-form-2--0 .bg {
+	background-image: url('../images/header.jpg');
+	background-size: cover;
+	-webkit-background-size: cover;
+	background-repeat: no-repeat;
+	-webkit-background-repeat: no-repeat;
+	background-position: center bottom;
+	opacity: 0.4;
+}#desc-center-img-anim-text-btn {
+	background: #eeeeee;
+}#team-2col-2row-2 {
+	background: #ffffff;
+}
+
+
+#clients-carousel {
+	background: #eeeeee;
+}
+#subscribe-center-field-3 {
+	background: #444444;
+}
+
+#footer-fluid-text-icon-social {
+	background: #444444;
+}
